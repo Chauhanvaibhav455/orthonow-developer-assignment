@@ -251,7 +251,7 @@ Potential enhancements include:
 
 # 👨‍💻 Author
 
-**Harshvardhan Chauhan**
+**Vaibhav Chauhan**
 
 B.Tech Engineering Student
 
